@@ -31,4 +31,4 @@ Bu proje, C++ kullanılarak geliştirilmiş, Windows Konsol üzerinde çalışan
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+   git clone [https://github.com/Omer-Murat/Snake-Game.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
