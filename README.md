@@ -1,5 +1,9 @@
 # 🐍 Classic Snake Game (C++ Console)
 
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
+
 ![Anasayfa](anasayfa.png)
 
 Bu proje, C++ kullanılarak geliştirilmiş, Windows Konsol üzerinde çalışan gelişmiş bir **Yılan Oyunu**dur. Standart oyun döngüsü (Game Loop), dinamik bellek yönetimi ve Windows API kullanılarak hazırlanmıştır.
