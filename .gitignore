@@ -1,0 +1,20 @@
+# C++ Compiled Files
+*.exe
+*.obj
+*.o
+*.dll
+
+# Visual Studio / VS Code Folders
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Build Folders
+Debug/
+Release/
+x64/
+bin/
+obj/
