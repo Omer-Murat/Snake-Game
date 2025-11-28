@@ -37,7 +37,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izle
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone [https://github.com/Omer-Murat/Snake-Game.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+   git clone https://github.com/Omer-Murat/Snake-Game
    ```
    
 Geliştirici: Ömer Murat
