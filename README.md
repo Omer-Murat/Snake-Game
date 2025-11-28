@@ -31,8 +31,16 @@ Bu proje, C++ kullanılarak geliştirilmiş, Windows Konsol üzerinde çalışan
 | **D** | Sağa Git |
 | **X** | Oyundan Çık |
 
-## 🚀 Kurulum ve Çalıştırma
+## 🛠️ Kurulum ve Çalıştırma
+
+Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. Bu repoyu klonlayın:
    ```bash
    git clone [https://github.com/Omer-Murat/Snake-Game.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+   ```
+   
+Geliştirici: Ömer Murat
+
+---
+*Bu proje açık kaynaklıdır ve eğitim amaçlı geliştirilmiştir.*
